@@ -13,5 +13,4 @@ Kullanıcılar kolayca kayıt olabilir, bilgilerini güncelleyebilir ve hesaplar
 Programın güvenli çalışabilmesi için giriş yapan her kullanıcı, kulanıcı adı ve giriş yaptığı 
 zaman bilgileri ile sistemdeki bir dosyaya loglanır.
 
-Okul No  : 190542011
-Ad Soyad : Bahadır Sevim
+Okul No  : 190542011 Ad Soyad : Bahadır Sevim
